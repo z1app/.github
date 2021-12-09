@@ -1,9 +1,9 @@
-# z1app
-
-![capa github]()
+# Seja bem vinde a Z1! <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
 
 
-### Olá! Boas vindas :) <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
+![capa github](https://github.com/z1app/.github/blob/main/images/Capa.png)  
+
+
 
 ---
 
@@ -20,3 +20,4 @@ Redes sociais
 ---  
 
 ![](https://komarev.com/ghpvc/?username=z1app&color=blue&style=flat)
+
