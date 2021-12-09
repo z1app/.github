@@ -18,19 +18,20 @@ Aqui na Z1, o nosso app é desenvolvido em duas tecnologias:
 ## Vagas
 E nós temos muuuuitas vagas, para as mais diversas áreas:
 
-:star2: Tecnologia
+<img src="https://github.com/z1app/.github/blob/main/images/Z1_Logomark_L-Laranja%201.png" width="16"></img></a> Tecnologia
 
-:star2: Produto
+<img src="https://github.com/z1app/.github/blob/main/images/Z1_Logomark_L-Laranja%201.png" width="16"></img></a> Produto
 
-:star2: Marketing
+<img src="https://github.com/z1app/.github/blob/main/images/Z1_Logomark_L-Laranja%201.png" width="16"></img></a> Marketing
 
-:star2: Operações
- 
-:star2: Customer Experience
+<img src="https://github.com/z1app/.github/blob/main/images/Z1_Logomark_L-Laranja%201.png" width="16"></img></a> Operações
 
-:star2: People
+<img src="https://github.com/z1app/.github/blob/main/images/Z1_Logomark_L-Laranja%201.png" width="16"></img></a> Customer Experience
 
-:star2: Financeiro
+<img src="https://github.com/z1app/.github/blob/main/images/Z1_Logomark_L-Laranja%201.png" width="16"></img></a> People
+
+<img src="https://github.com/z1app/.github/blob/main/images/Z1_Logomark_L-Laranja%201.png" width="16"></img></a> Financeiro
+
 
 Você pode conferi-las clicando [aqui](https://jobs.lever.co/z1.app/) :speaking_head:
 
@@ -63,6 +64,8 @@ Você pode conferi-las clicando [aqui](https://jobs.lever.co/z1.app/) :speaking_
 ---
 
 ## Redes sociais :round_pushpin:
+
+<a href="https://www.tiktok.com/@z1.app?"><img src="https://github.com/z1app/.github/blob/main/images/twitter.png" width="16"></img></a> [TikTok](https://www.tiktok.com/@z1.app?)   
 
 <a href="https://twitter.com/z1_app"><img src="https://github.com/z1app/.github/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/z1_app)   
 
