@@ -3,6 +3,8 @@
 
 ![capa github](https://github.com/z1app/.github/blob/main/images/Capa.png)  
 
+Somos uma conta digital para crianças e adolescentes 100% gratuita e digital :tada:
+
 
 
 ---
