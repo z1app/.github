@@ -36,15 +36,23 @@ Você pode conferi-las clicando [aqui](https://jobs.lever.co/z1.app/) :speaking_
 
 ### Destaques
 
+#### Back-end :woman_technologist:
+
+💻 [Pessoa Engenheira de Software Back-End Senior (Node.JS)](https://jobs.lever.co/z1.app/a1db7ec0-e1b9-4a70-961a-0c2ab81b2282)
+
 💻 [Pessoa Engenheira de Software - Back-End (Node.JS)](https://jobs.lever.co/z1.app/124fb73a-93aa-42f2-8b24-1c89ca7c65fc)
 
 💻 [Pessoa Engenheira de Software - Back-End Jr (Node.JS)](https://jobs.lever.co/z1.app/7a819d25-6859-4015-9c75-f96dc05c0c38)
 
-💻 [Pessoa Engenheira de Software - Mobile (React Native)](https://jobs.lever.co/z1.app/649e2162-39ae-4423-97af-3abc65b3bc5a)
+
+#### Mobile 📱
 
 💻 [Pessoa Engenheira de Software - Mobile (React Native)](https://jobs.lever.co/z1.app/649e2162-39ae-4423-97af-3abc65b3bc5a)
 
-💻 [Pessoa Engenheira de Software Back-End Senior (Node.JS)](https://jobs.lever.co/z1.app/a1db7ec0-e1b9-4a70-961a-0c2ab81b2282)
+💻 [Pessoa Engenheira de Software - Mobile (React Native)](https://jobs.lever.co/z1.app/649e2162-39ae-4423-97af-3abc65b3bc5a)
+
+
+#### Segurança :safety_vest:
 
 💻 [Pessoa Engenheira de Software Mobile Jr (React Native)](https://jobs.lever.co/z1.app/90e9062e-460a-4372-8e46-c7129dcf3642)
 
@@ -52,7 +60,7 @@ Você pode conferi-las clicando [aqui](https://jobs.lever.co/z1.app/) :speaking_
 
 ---
 
-## Redes sociais 
+## Redes sociais :round_pushpin:
 
 <a href="https://twitter.com/z1_app"><img src="https://github.com/z1app/.github/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/z1_app)   
 
