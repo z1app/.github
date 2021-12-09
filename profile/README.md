@@ -74,8 +74,7 @@ Você pode conferi-las clicando [aqui](https://jobs.lever.co/z1.app/) :speaking_
 <a href="https://www.linkedin.com/company/z1app/?originalSubdomain=br"><img src="https://github.com/z1app/.github/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/company/z1app/?originalSubdomain=br)  
 
 <a href="mailto:salve@z1.app"><img src="https://github.com/z1app/.github/blob/main/images/email.png" width="16"></img></a> [Email](mailto:salve@z1.app)  
-
----  
+  
 
 ![](https://komarev.com/ghpvc/?username=z1app&color=blue&style=flat)
 
