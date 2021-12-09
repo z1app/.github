@@ -65,7 +65,7 @@ Você pode conferi-las clicando [aqui](https://jobs.lever.co/z1.app/) :speaking_
 
 ## Redes sociais :round_pushpin:
 
-<a href="https://www.tiktok.com/@z1.app?"><img src="https://github.com/z1app/.github/blob/main/images/twitter.png" width="16"></img></a> [TikTok](https://www.tiktok.com/@z1.app?)   
+<a href="https://www.tiktok.com/@z1.app?"><img src="https://github.com/z1app/.github/blob/main/images/tik-tok.png" width="16"></img></a> [TikTok](https://www.tiktok.com/@z1.app?)   
 
 <a href="https://twitter.com/z1_app"><img src="https://github.com/z1app/.github/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/z1_app)   
 
