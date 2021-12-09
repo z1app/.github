@@ -47,9 +47,11 @@ Você pode conferi-las clicando [aqui](https://jobs.lever.co/z1.app/) :speaking_
 
 #### Mobile 📱
 
-💻 [Pessoa Engenheira de Software - Mobile (React Native)](https://jobs.lever.co/z1.app/649e2162-39ae-4423-97af-3abc65b3bc5a)
+💻 [Pessoa Engenheira de Software - Mobile Senior (React Native)](https://jobs.lever.co/z1.app/e058a268-e216-4a66-8018-970f2d862619)
 
 💻 [Pessoa Engenheira de Software - Mobile (React Native)](https://jobs.lever.co/z1.app/649e2162-39ae-4423-97af-3abc65b3bc5a)
+
+💻 [Pessoa Engenheira de Software Mobile Jr (React Native)](https://jobs.lever.co/z1.app/90e9062e-460a-4372-8e46-c7129dcf3642)
 
 
 #### Segurança :safety_vest:
