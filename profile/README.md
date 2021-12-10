@@ -57,8 +57,6 @@ Você pode conferi-las clicando [aqui](https://jobs.lever.co/z1.app/) :speaking_
 
 #### Segurança :safety_vest:
 
-💻 [Pessoa Engenheira de Software Mobile Jr (React Native)](https://jobs.lever.co/z1.app/90e9062e-460a-4372-8e46-c7129dcf3642)
-
 💻 [Pessoa Engenheira em Segurança da Informação](https://jobs.lever.co/z1.app/525878fb-4acc-444f-83ea-616e8b48b3fa) 
 
 ---
