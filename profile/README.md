@@ -1,7 +1,7 @@
 # Seja bem vinde a Z1! <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
 
 
-![capa github](https://github.com/z1app/.github/blob/main/images/Capa.png)  
+![capa github](https://github.com/z1app/.github/blob/main/images/capa%20Z1.jpeg)  
 
 Somos uma conta digital para crianças e adolescentes **100% gratuita e digital** :tada: e oferecemos a todos uzers um cartão Mastercard, no esquema de crébito: um cartão pré pago que pode ser utilizado na função crédito :nail_care:
 
