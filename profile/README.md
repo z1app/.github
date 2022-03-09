@@ -43,8 +43,6 @@ Você pode conferi-las clicando **[aqui](https://jobs.lever.co/z1.app/)** :speak
 
 💻 [Pessoa Engenheira de Software - Back-End (Node.JS)](https://jobs.lever.co/z1.app/124fb73a-93aa-42f2-8b24-1c89ca7c65fc)
 
-💻 [Pessoa Engenheira de Software - Back-End Jr (Node.JS)](https://jobs.lever.co/z1.app/7a819d25-6859-4015-9c75-f96dc05c0c38)
-
 
 #### Mobile 📱
 
@@ -52,12 +50,10 @@ Você pode conferi-las clicando **[aqui](https://jobs.lever.co/z1.app/)** :speak
 
 💻 [Pessoa Engenheira de Software - Mobile (React Native)](https://jobs.lever.co/z1.app/649e2162-39ae-4423-97af-3abc65b3bc5a)
 
-💻 [Pessoa Engenheira de Software Mobile Jr (React Native)](https://jobs.lever.co/z1.app/90e9062e-460a-4372-8e46-c7129dcf3642)
-
 
 #### Segurança :safety_vest:
 
-💻 [Pessoa Engenheira em Segurança da Informação](https://jobs.lever.co/z1.app/525878fb-4acc-444f-83ea-616e8b48b3fa) 
+💻 [Pessoa Analista de Segurança da Informação - Jr](https://jobs.lever.co/z1.app/c7a2f3c9-fdea-4b5a-aef1-13e0bfa460ac) 
 
 ---
 
