@@ -1,39 +1,25 @@
-# Seja bem vinde a Z1! <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
+# Olá! <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
 
 
 ![capa github](https://github.com/z1app/.github/blob/main/images/capa%20Z1.jpeg)  
 
-Somos uma conta digital para crianças e adolescentes **100% gratuita e digital** :tada: e oferecemos a todos uzers um cartão Mastercard, no esquema de crébito: um cartão pré pago que pode ser utilizado na função crédito :nail_care:
+A Z1 é uma conta digital e gratuita para crianças e adolescentes :tada:.
+Nós oferecemos um cartão MasterCard que funciona como *crébito*: um cartão pré-pago que funciona como crédito :nail_care:
 
-Quer entender mais sobre o funcionamento do nosso produto? É só clicar **[aqui](https://z1.app/)** :sparkles: 
+Quer entender mais sobre o funcionamento da Z1? É só clicar **[aqui](https://z1.app/)** :sparkles: 
 
 ## Tecnologias
 
 Aqui na Z1, o nosso app é desenvolvido as seguintes tecnologias: 
 
 :zap: Node.JS 
-
 :zap: React-Native 
+:zap: TypeScript
+:zap: GraphQL + Apollo
 
 ## Vagas
-E nós temos muuuuitas vagas, para as mais diversas áreas:
-
-<img src="https://github.com/z1app/.github/blob/main/images/Z1_Logomark_L-Laranja%201.png" width="16"></img></a> Tecnologia
-
-<img src="https://github.com/z1app/.github/blob/main/images/Z1_Logomark_L-Laranja%201.png" width="16"></img></a> Produto
-
-<img src="https://github.com/z1app/.github/blob/main/images/Z1_Logomark_L-Laranja%201.png" width="16"></img></a> Marketing
-
-<img src="https://github.com/z1app/.github/blob/main/images/Z1_Logomark_L-Laranja%201.png" width="16"></img></a> Operações
-
-<img src="https://github.com/z1app/.github/blob/main/images/Z1_Logomark_L-Laranja%201.png" width="16"></img></a> Customer Experience
-
-<img src="https://github.com/z1app/.github/blob/main/images/Z1_Logomark_L-Laranja%201.png" width="16"></img></a> People
-
-<img src="https://github.com/z1app/.github/blob/main/images/Z1_Logomark_L-Laranja%201.png" width="16"></img></a> Financeiro
-
-
-Você pode conferi-las clicando **[aqui](https://jobs.lever.co/z1.app/)** :speaking_head:
+Você pode conferir todas nossas vagas aqui 👇
+[z1.app/vagas](https://jobs.lever.co/z1.app)
 
 ### Destaques
 
