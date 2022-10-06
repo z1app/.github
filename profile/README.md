@@ -15,46 +15,6 @@ Aqui na Z1, o nosso app é desenvolvido as seguintes tecnologias:
 
 :zap: React-Native 
 
-## Vagas
-E nós temos muuuuitas vagas, para as mais diversas áreas:
-
-<img src="https://github.com/z1app/.github/blob/main/images/Z1_Logomark_L-Laranja%201.png" width="16"></img></a> Tecnologia
-
-<img src="https://github.com/z1app/.github/blob/main/images/Z1_Logomark_L-Laranja%201.png" width="16"></img></a> Produto
-
-<img src="https://github.com/z1app/.github/blob/main/images/Z1_Logomark_L-Laranja%201.png" width="16"></img></a> Marketing
-
-<img src="https://github.com/z1app/.github/blob/main/images/Z1_Logomark_L-Laranja%201.png" width="16"></img></a> Operações
-
-<img src="https://github.com/z1app/.github/blob/main/images/Z1_Logomark_L-Laranja%201.png" width="16"></img></a> Customer Experience
-
-<img src="https://github.com/z1app/.github/blob/main/images/Z1_Logomark_L-Laranja%201.png" width="16"></img></a> People
-
-<img src="https://github.com/z1app/.github/blob/main/images/Z1_Logomark_L-Laranja%201.png" width="16"></img></a> Financeiro
-
-
-Você pode conferi-las clicando **[aqui](https://jobs.lever.co/z1.app/)** :speaking_head:
-
-### Destaques
-
-#### Back-end :woman_technologist:
-
-💻 [Pessoa Engenheira de Software Back-End Senior (Node.JS)](https://jobs.lever.co/z1.app/a1db7ec0-e1b9-4a70-961a-0c2ab81b2282)
-
-💻 [Pessoa Engenheira de Software - Back-End (Node.JS)](https://jobs.lever.co/z1.app/124fb73a-93aa-42f2-8b24-1c89ca7c65fc)
-
-
-#### Mobile 📱
-
-💻 [Pessoa Engenheira de Software - Mobile Senior (React Native)](https://jobs.lever.co/z1.app/e058a268-e216-4a66-8018-970f2d862619)
-
-💻 [Pessoa Engenheira de Software - Mobile (React Native)](https://jobs.lever.co/z1.app/649e2162-39ae-4423-97af-3abc65b3bc5a)
-
-
-#### Segurança :safety_vest:
-
-💻 [Pessoa Analista de Segurança da Informação - Jr](https://jobs.lever.co/z1.app/c7a2f3c9-fdea-4b5a-aef1-13e0bfa460ac) 
-
 ---
 
 ## Redes sociais :round_pushpin:
